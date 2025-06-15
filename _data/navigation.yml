@@ -12,9 +12,11 @@ main:
   #   url: /sitemap/
   
 category:
-  - title: "Programming"
+  - title: "Tableless"
     children:
       - title: "Project"
         url: "/project"
       - title: "Documentation"
         url:  "/documentation"
+      - title: "Etc"
+        url: "/etc"
